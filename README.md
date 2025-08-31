@@ -5,20 +5,33 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Cloud+Technology+Explorer+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Tech+Content+Creator+%F0%9F%93%9D" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Cloud+Technology+Explorer+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Tech+Content+Creator+%F0%9F%93%9D" alt="Typing Animation"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Tamil%20Nadu-India-ff69b4?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square&logo=code&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Currently-Learning%20Cloud-green?style=flat-square&logo=amazonaws&logoColor=white" alt="Learning"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table>
+<tr>
+<td width="60%">
 
 ```javascript
 const sowmiya = {
     pronouns: "she/her",
-    location: "Tamil Nadu, India",
-    currentFocus: ["Full Stack Development", "Cloud Computing"],
+    location: "Tamil Nadu, India 🇮🇳",
+    currentFocus: [
+        "Full Stack Development", 
+        "Cloud Computing"
+    ],
     technologies: {
         frontend: ["React", "JavaScript", "HTML5", "CSS3"],
         backend: ["Node.js", "Express.js", "MongoDB"],
@@ -26,28 +39,57 @@ const sowmiya = {
         languages: ["JavaScript", "Python", "C++"],
         tools: ["Git", "VS Code", "Postman"]
     },
-    currentlyLearning: "Advanced Cloud Orchestration",
-    askMeAbout: ["Web Dev", "MERN Stack", "Competitive Programming"],
+    currentlyLearning: "Advanced Cloud Orchestration ☁️",
+    askMeAbout: [
+        "Web Dev", 
+        "MERN Stack", 
+        "Competitive Programming"
+    ],
     funFact: "I solve coding problems for fun! 🧩"
 };
 ```
 
-<br clear="both">
+</td>
+<td width="40%">
+
+<div align="center">
+  <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="sowmiya.a2023it@sece.ac.in" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sowmiya-a-it-55141b304" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Sowmiya820" target="_blank">
-<!--     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/> -->
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:sowmiya.a2023it@sece.ac.in">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+          <br/>
+          <sub><b>Email</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/sowmiya-a-it-55141b304">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+          <br/>
+          <sub><b>LinkedIn</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Sowmiya820">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+          <br/>
+          <sub><b>GitHub</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -55,62 +97,87 @@ const sowmiya = {
 ## 💻 Competitive Programming Journey
 
 <div align="center">
-  
-### 🏆 Coding Profiles
 
-<a href="https://leetcode.com/u/Sowmiya820/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-</a>
-<a href="https://www.hackerrank.com/profile/sowmiya_a2023it" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-</a>
-<a href="http://www.skillrack.com/profile/484662/32df308df291d6e3a6840fe54f452c09be728003" target="_blank">
-  <img src="https://img.shields.io/badge/SkillRack-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white" alt="SkillRack">
-</a>
+### 🏆 Coding Platforms
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/Sowmiya820/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
+        <br/>
+        <sub><b>LeetCode</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/sowmiya_a2023it">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35"/>
+        <br/>
+        <sub><b>HackerRank</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="http://www.skillrack.com/profile/484662/32df308df291d6e3a6840fe54f452c09be728003">
+        <img src="https://img.shields.io/badge/SkillRack-FF4B4B?style=for-the-badge&logo=codeforces&logoColor=white" height="35"/>
+        <br/>
+        <sub><b>SkillRack</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/Sowmiya820?theme=nord&font=source_code_pro&extension=heatmap&width=600" alt="LeetCode Stats"/>
 
 </div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sowmiya820?theme=nord&font=source_code_pro&extension=heatmap&width=500" alt="LeetCode Stats"/>
-</div>
-
----
-
 
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  
+
 ### 💡 Project Showcase
 
 <table>
 <tr>
 <td width="50%">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Project-Tutorials%20Blog-blueviolet?style=for-the-badge" alt="Project Badge"/>
+</div>
+
 #### 📝 Tutorials Blog Platform
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=TutorialsBlog&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YourGitHubUsername/TutorialsBlog)
 
-**Tech Stack:** `React` `Node.js` `MongoDB` `Express.js`
+**Tech Stack:** 
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" height="30"/>
 
-🔹 CRUD operations for tutorials  
-🔹 Interactive likes & comments system  
-🔹 Social sharing features  
-🔹 Responsive design  
+**Features:**
+- 🔹 CRUD operations for tutorials
+- 🔹 Interactive likes & comments system
+- 🔹 Social sharing features
+- 🔹 Responsive design
 
 </td>
 <td width="50%">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Project-Todo%20Challenge-success?style=for-the-badge" alt="Project Badge"/>
+</div>
+
 #### 🎮 Gamified To-Do Challenge App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=TodoChallenge&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YourGitHubUsername/TodoChallenge)
 
-**Tech Stack:** `React` `Node.js` `MongoDB` `Express.js`
+**Tech Stack:** 
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" height="30"/>
 
-🔹 Deadline-based task management  
-🔹 Reward system with coins  
-🔹 Interactive quizzes  
-🔹 Progress tracking  
+**Features:**
+- 🔹 Deadline-based task management
+- 🔹 Reward system with coins
+- 🔹 Interactive quizzes
+- 🔹 Progress tracking
 
 </td>
 </tr>
@@ -124,11 +191,32 @@ const sowmiya = {
 
 <div align="center">
 
-| 🗓️ **Year** | 🎯 **Event/Achievement** | 🏅 **Result** | 💎 **Recognition** |
-|:---:|:---:|:---:|:---:|
-| **2025** | WebWar @ Hindustan College | 🥇 **1st Place** | Competition Winner |
-| **2024** | Competitive Programming | 💯 **300+ Problems** | Multi-platform Solver |
-| **2024** | Full Stack Development | 🚀 **Multiple Projects** | MERN Stack Expertise |
+<table>
+<tr>
+<th>📅 Year</th>
+<th>🎯 Event/Achievement</th>
+<th>🏅 Result</th>
+<th>💎 Recognition</th>
+</tr>
+<tr>
+<td><b>2025</b></td>
+<td>WebWar @ Hindhusthan College of Technology</td>
+<td>🥇 <b>2nd Place</b></td>
+<td>Competition Winner</td>
+</tr>
+<tr>
+<td><b>2024</b></td>
+<td>Competitive Programming</td>
+<td>💯 <b>300+ Problems</b></td>
+<td>Multi-platform Solver</td>
+</tr>
+<tr>
+<td><b>2024</b></td>
+<td>Full Stack Development</td>
+<td>🚀 <b>Multiple Projects</b></td>
+<td>MERN Stack Expertise</td>
+</tr>
+</table>
 
 </div>
 
@@ -138,32 +226,57 @@ const sowmiya = {
 
 <div align="center">
 
-### 💻 Languages
+<table>
+<tr>
+<td align="center" width="25%">
+<h4>💻 Languages</h4>
 <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css" alt="Languages" />
-
-### 🚀 Frontend
+</td>
+<td align="center" width="25%">
+<h4>🚀 Frontend</h4>
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" alt="Frontend" />
-
-### ⚡ Backend
+</td>
+<td align="center" width="25%">
+<h4>⚡ Backend</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend" />
-
-### ☁️ Tools & Cloud
+</td>
+<td align="center" width="25%">
+<h4>☁️ Tools & Cloud</h4>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws" alt="Tools" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-
 ## 🌟 Fun Facts
 
 <div align="center">
 
-🎯 I love solving complex algorithms for fun!  
-☁️ Currently exploring advanced cloud orchestration  
-🌱 Always learning something new in tech  
-📚 Enjoy creating educational content  
-🎮 Gamification enthusiast in productivity apps  
+<table>
+<tr>
+<td align="center">🎯</td>
+<td>I love solving complex algorithms for fun!</td>
+</tr>
+<tr>
+<td align="center">☁️</td>
+<td>Currently exploring advanced cloud orchestration</td>
+</tr>
+<tr>
+<td align="center">🌱</td>
+<td>Always learning something new in tech</td>
+</tr>
+<tr>
+<td align="center">📚</td>
+<td>Enjoy creating educational content</td>
+</tr>
+<tr>
+<td align="center">🎮</td>
+<td>Gamification enthusiast in productivity apps</td>
+</tr>
+</table>
 
 </div>
 
@@ -174,9 +287,12 @@ const sowmiya = {
   
   <h3>💫 "Code is poetry written in logic" 💫</h3>
   
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
-  </p>
+  <br/>
   
-  **Thank you for visiting my profile! Let's connect and build amazing things together! 🚀**
+  <img src="https://komarev.com/ghpvc/?username=Sowmiya820&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
+  
+  <br/>
+  <br/>
+  
+  <b>Thank you for visiting my profile! Let's connect and build amazing things together! 🚀</b>
 </div>
