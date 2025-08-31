@@ -200,9 +200,9 @@ const sowmiya = {
 </tr>
 <tr>
 <td><b>2025</b></td>
-<td>WebWar @ Hindhusthan College of Technology</td>
+<td>WebWar @ Hindusthan Institute of Technology</td>
 <td>🥇 <b>2nd Place</b></td>
-<td>Competition Winner</td>
+<td>Competition Runner Up</td>
 </tr>
 <tr>
 <td><b>2024</b></td>
