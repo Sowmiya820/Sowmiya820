@@ -154,26 +154,6 @@ const sowmiya = {
 
 ---
 
-## 🎯 Current Goals
-
-```mermaid
-graph LR
-    A[🎯 2025 Goals] --> B[Master Cloud Technologies]
-    A --> C[Build 5+ MERN Projects]
-    A --> D[Solve 500+ DSA Problems]
-    A --> E[Contribute to Open Source]
-    
-    B --> F[☁️ Apache CloudStack]
-    B --> G[🔧 Ansible Automation]
-    
-    C --> H[📱 Mobile-First Apps]
-    C --> I[🚀 Full-Stack Solutions]
-    
-    D --> J[💡 Algorithm Mastery]
-    D --> K[🏆 Contest Participation]
-```
-
----
 
 ## 🌟 Fun Facts
 
@@ -186,18 +166,6 @@ graph LR
 🎮 Gamification enthusiast in productivity apps  
 
 </div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-JavaScript   12 hrs 30 mins  ████████████████████░░░░░
-React.js     8 hrs 45 mins   █████████████░░░░░░░░░░░░
-Node.js      6 hrs 15 mins   ██████████░░░░░░░░░░░░░░░
-MongoDB      4 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░
-CSS3         3 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░
-```
 
 ---
 
