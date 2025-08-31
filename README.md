@@ -1,10 +1,9 @@
 # 💫 About Me  
 👋 Hi, I’m **Sowmiya**  
-🎓 Currently pursuing **2nd Year Information Technology**  
-💻 Passionate about **Full Stack Development (MERN & MEAN)**  
-🚀 Exploring **Next.js, React, Node.js, and Spring Boot**  
+🎓 Currently pursuing **3rd Year Information Technology**  
+💻 Passionate about **Full Stack Development (MERN)**  
 📚 Interested in **Data Science, Cloud, and DevOps**  
-🌱 Currently learning **Modern Full-Stack Development**  
+🌱 Currently learning **Data Science**  
 
 ---
 
