@@ -39,14 +39,14 @@ const sowmiya = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="mailto:sowmiya.a2023it@sece.ac.in" target="_blank">
+  <a href="sowmiya.a2023it@sece.ac.in" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/sowmiya-a-it-55141b304" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YourGitHubUsername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
+  <a href="https://github.com/Sowmiya820" target="_blank">
+<!--     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/> -->
   </a>
 </div>
 
@@ -76,20 +76,6 @@ const sowmiya = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&custom_title=Sowmiya's%20GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
 
 ---
 
@@ -141,8 +127,7 @@ const sowmiya = {
 | 🗓️ **Year** | 🎯 **Event/Achievement** | 🏅 **Result** | 💎 **Recognition** |
 |:---:|:---:|:---:|:---:|
 | **2025** | WebWar @ Hindustan College | 🥇 **1st Place** | Competition Winner |
-| **2025** | Cloud Orchestration Project | ✅ **Completed** | Apache CloudStack + Ansible |
-| **2024** | Competitive Programming | 💯 **100+ Problems** | Multi-platform Solver |
+| **2024** | Competitive Programming | 💯 **300+ Problems** | Multi-platform Solver |
 | **2024** | Full Stack Development | 🚀 **Multiple Projects** | MERN Stack Expertise |
 
 </div>
@@ -169,19 +154,11 @@ const sowmiya = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&custom_title=Sowmiya's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🎯 Current Goals
 
 ```mermaid
 graph LR
-    A[🎯 2024 Goals] --> B[Master Cloud Technologies]
+    A[🎯 2025 Goals] --> B[Master Cloud Technologies]
     A --> C[Build 5+ MERN Projects]
     A --> D[Solve 500+ DSA Problems]
     A --> E[Contribute to Open Source]
