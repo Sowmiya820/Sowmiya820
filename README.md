@@ -63,8 +63,8 @@
 
 # 🤝 Connect With Me  
 
-- 📧 **Email:** your-email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- 📧 **Email:** sowmiya.a2023it@sece.ac.in
+- 💼 [LinkedIn](https://linkedin.com/in/sowmiya-a-it-55141b304)  
 - 🌐 [Portfolio](https://your-portfolio-link.com)  
 
 ---
